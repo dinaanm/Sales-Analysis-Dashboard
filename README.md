@@ -7,3 +7,4 @@ The project aims to highlight crucial business metrics and trends via a Power BI
 - Microsoft Power BI
 - Power Query
 ## Dashboard
+![image](https://github.com/user-attachments/assets/293a079f-0aac-4787-ad50-1682912805ea)
